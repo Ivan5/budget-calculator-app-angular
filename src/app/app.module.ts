@@ -30,6 +30,7 @@ import { MatDialogModule } from "@angular/material";
     MatDialogModule
   ],
   providers: [],
+  entryComponents: [EditItemModalComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
